@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "serial": 1795379834,
+  "serial": 1795380860,
   "channel": "test-bench",
   "board": "fnk0104",
-  "default_app": "matchcal",
-  "default_serial": 1795379834,
+  "default_app": "hello_blue",
+  "default_serial": 1795380860,
   "check_interval_s": 900,
   "restart_id": 0,
   "apps": {
@@ -23,6 +23,14 @@
       "size": 2003568,
       "sha256": "88a1d7a6670c694924e2b79f29f69eb6ca24788871b62bc19a16cce1dfc4429f",
       "sig": "MEQCIH4GSN2iI5phukGyiqaBa1XuUtclj+LGc6C6MHmeP3/QAiBY9yqYIGwK6adbFROCPryP6M321u6CMNWt8OaN1HsEqA=="
+    },
+    "hello_blue": {
+      "name": "hello_blue",
+      "version": "0.1.0",
+      "url": "https://github.com/MatchCalender/cyd-firmware-releases/releases/download/hello_blue-v0.1.0/hello_blue-0.1.0-fnk0104.bin",
+      "size": 1826880,
+      "sha256": "39b11f9bae06fbbeb9793aed4b003b60ec5e8bbd695cb43deb7bb9dfb923f8f4",
+      "sig": "MEUCIHHV7pknih2iy+Pfq3GUR/i36TTNHw10zmgXj+dZF+zTAiEA/jOKtoVkUifJUUTjAZfLPrKS7rqvDqTiHjHKCEFFMXc="
     }
   }
 }
