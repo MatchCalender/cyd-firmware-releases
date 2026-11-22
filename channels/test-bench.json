@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "serial": 1795378264,
+  "channel": "test-bench",
+  "board": "fnk0104",
+  "default_app": "hello_red",
+  "default_serial": 1795378264,
+  "check_interval_s": 900,
+  "restart_id": 0,
+  "apps": {
+    "hello_red": {
+      "name": "R\u00f6d test ",
+      "version": "0.1.0",
+      "url": "https://github.com/MatchCalender/cyd-firmware-releases/releases/download/hello_red-v0.1.0/hello_red-0.1.0-fnk0104.bin",
+      "size": 1826816,
+      "sha256": "1257688282eb79c2737f35fe0f783e0b6a0c5a2c2a359836d0d46c302975af9b",
+      "sig": "MEQCICdZAGc850jZA8rKhcLIjM7C/QB8ZWrpqrvskCzcHjHZAiBnax6E/01Rhz41C331fiw+sHyKPQigPxk/6np9m6tgqA=="
+    }
+  }
+}
