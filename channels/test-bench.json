@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "serial": 1795386809,
+  "serial": 1795461469,
   "channel": "test-bench",
   "board": "fnk0104",
   "default_app": "matchcal",
-  "default_serial": 1795386809,
+  "default_serial": 1795461469,
   "check_interval_s": 900,
   "restart_id": 0,
   "apps": {
@@ -17,12 +17,12 @@
       "sig": "MEQCICdZAGc850jZA8rKhcLIjM7C/QB8ZWrpqrvskCzcHjHZAiBnax6E/01Rhz41C331fiw+sHyKPQigPxk/6np9m6tgqA=="
     },
     "matchcal": {
-      "name": "matchcal_cache",
-      "version": "1.0.2",
-      "url": "https://github.com/MatchCalender/cyd-firmware-releases/releases/download/matchcal-v1.0.2/matchcal-1.0.2-fnk0104.bin",
-      "size": 2004144,
-      "sha256": "bd2090da050e637a7d4231c0ef6d14eab6ccabec884fcb8e1384bb50a1c1b862",
-      "sig": "MEUCIHtQIukYV37Gz6PRX7UMnLnHlfdxt/JqLiT1+0Xjch4iAiEA3GAMO3vuiXSZmlrleqthiORQk/Y4LOORyXaAl4xvTbE="
+      "name": "matchcal_3",
+      "version": "1.0.3",
+      "url": "https://github.com/MatchCalender/cyd-firmware-releases/releases/download/matchcal-v1.0.3/matchcal-1.0.3-fnk0104.bin",
+      "size": 2005392,
+      "sha256": "d1ab2f11418430fe78e8552280595f2de795f2b02fa6188c888d0c8cb3d5fe60",
+      "sig": "MEYCIQC2uvR8YaxyH2nxykPeFuox4QsBccjTUqMsAxcTDtLyAAIhAKScoKmBrMnMUiS58WmWinz7pUq/5p1+jdxqIBNmcHX6"
     },
     "hello_blue": {
       "name": "hello_blue",
